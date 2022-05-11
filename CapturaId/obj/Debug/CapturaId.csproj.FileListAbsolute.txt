@@ -1,0 +1,8 @@
+C:\Users\csi21-atallez\Desktop\Programacion\CapturaId\CapturaId\bin\Debug\CapturaId.exe.config
+C:\Users\csi21-atallez\Desktop\Programacion\CapturaId\CapturaId\bin\Debug\CapturaId.exe
+C:\Users\csi21-atallez\Desktop\Programacion\CapturaId\CapturaId\bin\Debug\CapturaId.pdb
+C:\Users\csi21-atallez\Desktop\Programacion\CapturaId\CapturaId\obj\Debug\CapturaId.csproj.AssemblyReference.cache
+C:\Users\csi21-atallez\Desktop\Programacion\CapturaId\CapturaId\obj\Debug\CapturaId.csproj.SuggestedBindingRedirects.cache
+C:\Users\csi21-atallez\Desktop\Programacion\CapturaId\CapturaId\obj\Debug\CapturaId.csproj.CoreCompileInputs.cache
+C:\Users\csi21-atallez\Desktop\Programacion\CapturaId\CapturaId\obj\Debug\CapturaId.exe
+C:\Users\csi21-atallez\Desktop\Programacion\CapturaId\CapturaId\obj\Debug\CapturaId.pdb
